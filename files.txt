@@ -1,1 +1,5 @@
 I am a bug fixing file aims to fix the bugs of the code 
+another fix 
+one more detected and ffixed
+
+fourth git fixed 
