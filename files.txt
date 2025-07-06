@@ -3,3 +3,4 @@ another fix
 one more detected and ffixed
 
 fourth git fixed 
+another fix for pink-mode
